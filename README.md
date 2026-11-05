@@ -1,17 +1,15 @@
 <h1 align="center">Suman Ghosh</h1>
 
 <h3 align="center">
-  Aspiring Software Engineer | Java Developer | Open Source Contributor
+  Aspiring Software Engineer | Java Developer
 </h3>
 
 <p align="center">
-  Building software, solving problems, and contributing to open source.
+  Building software, solving problems, and exploring open source.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sumanghosh02">
-    <img src="https://komarev.com/ghpvc/?username=sumanghosh02&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sumanghosh02&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -19,15 +17,14 @@
 ## About Me
 
 I am an MCA graduate passionate about software engineering,
-problem-solving, and building scalable applications.
+problem-solving, and building practical applications.
 
-- Currently strengthening Java and Data Structures & Algorithms.
-- Learning Java Full Stack Development and Spring Boot.
+- Currently learning Java and Data Structures & Algorithms.
+- Exploring Java Full Stack Development.
+- Learning Spring Boot and REST API development.
+- Interested in Backend Engineering and System Design.
 - Exploring Open Source Development.
-- Interested in distributed systems, backend engineering,
-  and system design.
-- Working towards contributing to major open-source projects.
-- Targeting Google Summer of Code 2028.
+- Preparing for Google Summer of Code 2028.
 
 ---
 
@@ -38,10 +35,11 @@ problem-solving, and building scalable applications.
 | Programming | Java |
 | Problem Solving | Data Structures & Algorithms |
 | Backend | Java, Spring Boot |
-| Frontend | HTML, CSS, JavaScript |
+| Frontend | HTML, CSS, JavaScript, React |
 | Database | MySQL |
 | Version Control | Git & GitHub |
-| Open Source | Exploring repositories and contribution workflows |
+| Cloud | AWS, GCP (Learning) |
+| Open Source | Exploring projects and contribution workflows |
 
 ---
 
@@ -63,56 +61,78 @@ problem-solving, and building scalable applications.
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=sumanghosh02&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  
-  <img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanghosh02&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=sumanghosh02&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanghosh02&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanghosh02&theme=github-compact&hide_border=true" />
-</p>
+<div align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=sumanghosh02&theme=github-compact&hide_border=true&area=true" />
+
+</div>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| Java DSA | Data structures and algorithm implementations | Java |
-| Java Full Stack | Full-stack development projects | Java, Spring Boot |
-| Open Source | Open-source learning and contributions | Git, GitHub |
+### 1. Java DSA
+
+Data Structures and Algorithms implementations
+using Java.
+
+**Technologies:** Java
+
+### 2. Java Programming
+
+Core Java concepts, object-oriented programming,
+collections and problem-solving.
+
+**Technologies:** Java
+
+### 3. Java Full Stack Development
+
+Learning and building full-stack web applications.
+
+**Technologies:** Java, Spring Boot, MySQL, JavaScript
 
 ---
 
-## Open Source
+## Open Source Contributions
 
-Currently exploring open-source projects and learning
-collaborative software development.
+Currently exploring open-source development and
+learning collaborative software engineering.
 
-My goal is to:
+My objectives:
 
 - Understand large codebases.
-- Fix bugs and improve existing features.
+- Explore open-source organisations.
+- Identify and fix bugs.
+- Improve existing features.
 - Write tests and documentation.
-- Submit meaningful pull requests.
-- Collaborate with maintainers and contributors.
+- Collaborate with developers.
+- Submit meaningful Pull Requests.
 
 ---
 
-## Goals
+## Achievements & Goals
 
-- [ ] Master Java and DSA.
+- [x] Completed Master of Computer Applications (MCA).
+- [ ] Strengthen Java and DSA.
 - [ ] Build production-quality applications.
-- [ ] Develop backend engineering skills.
-- [ ] Make meaningful open-source contributions.
-- [ ] Get my first pull request merged.
+- [ ] Master Spring Boot and Backend Development.
+- [ ] Make my first meaningful open-source contribution.
+- [ ] Get my first Pull Request merged.
 - [ ] Participate in Google Summer of Code 2028.
 - [ ] Build a strong software engineering portfolio.
 
@@ -124,7 +144,7 @@ My goal is to:
   <a href="https://github.com/sumanghosh02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -133,5 +153,5 @@ My goal is to:
 ---
 
 <p align="center">
-  <i>Learning continuously. Building consistently. Contributing meaningfully.</i>
+  <i>Learn. Build. Contribute. Repeat.</i>
 </p>
