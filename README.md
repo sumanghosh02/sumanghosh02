@@ -91,19 +91,7 @@ problem-solving, and building practical applications.
 
 ---
 
-## Featured Projects
 
-### 1. Java DSA
-
-Data Structures and Algorithms implementations
-using Java.
-
-**Technologies:** Java
-
-### 2. Java Programming
-
-Core Java concepts, object-oriented programming,
-collections and problem-solving.
 
 **Technologies:** Java
 
