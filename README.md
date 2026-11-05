@@ -89,20 +89,6 @@ problem-solving, and building practical applications.
 
 ---
 
----
-
-
-
-**Technologies:** Java
-
-### 3. Java Full Stack Development
-
-Learning and building full-stack web applications.
-
-**Technologies:** Java, Spring Boot, MySQL, JavaScript
-
----
-
 ## Open Source Contributions
 
 Currently exploring open-source development and
